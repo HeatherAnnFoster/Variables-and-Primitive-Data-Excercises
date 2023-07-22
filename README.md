@@ -6,8 +6,6 @@ Variables and Primitive Data Types (Practice):
 Instructions:
 For this practice assignment, you are provided with a starter notebook. Follow the directions within the notebook to practice writing your own code.
 
-Follow this link to access the notebook in Colab:
-
 Variables and Primitive Data Types Starter Notebook
 
 1. To work in the notebook, click on the "File" pulldown.
